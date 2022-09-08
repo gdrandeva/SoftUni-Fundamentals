@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Furniture", "ConsoleApp2\1. Furniture.csproj", "{E43D5FE2-92C8-4664-AC7D-B09FEB7EA17F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Race", "2. Race\2. Race.csproj", "{2C24E7C9-C477-493A-B68F-74C811194580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. SoftUni Bar Income", "03. SoftUni Bar Income\03. SoftUni Bar Income.csproj", "{CA13E6FC-7E65-4A99-AE71-BF7DB8F28424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{08792C95-2780-489E-AFCB-9504707FB34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Bar Income", "SoftUni Bar Income\SoftUni Bar Income.csproj", "{713C092E-1DC6-47A3-A87C-26D1D4E3ABE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThisIs3rd", "ConsoleApp3\ThisIs3rd.csproj", "{DDFFFEB0-D874-44FE-8784-3CC3AD9E6DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Winning Ticket", "1. Winning Ticket\1. Winning Ticket.csproj", "{3CD07501-8AC7-4F12-93F2-C48EA6594691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43D5FE2-92C8-4664-AC7D-B09FEB7EA17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43D5FE2-92C8-4664-AC7D-B09FEB7EA17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43D5FE2-92C8-4664-AC7D-B09FEB7EA17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43D5FE2-92C8-4664-AC7D-B09FEB7EA17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C24E7C9-C477-493A-B68F-74C811194580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C24E7C9-C477-493A-B68F-74C811194580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C24E7C9-C477-493A-B68F-74C811194580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C24E7C9-C477-493A-B68F-74C811194580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA13E6FC-7E65-4A99-AE71-BF7DB8F28424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA13E6FC-7E65-4A99-AE71-BF7DB8F28424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA13E6FC-7E65-4A99-AE71-BF7DB8F28424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA13E6FC-7E65-4A99-AE71-BF7DB8F28424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08792C95-2780-489E-AFCB-9504707FB34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08792C95-2780-489E-AFCB-9504707FB34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08792C95-2780-489E-AFCB-9504707FB34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08792C95-2780-489E-AFCB-9504707FB34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713C092E-1DC6-47A3-A87C-26D1D4E3ABE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713C092E-1DC6-47A3-A87C-26D1D4E3ABE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713C092E-1DC6-47A3-A87C-26D1D4E3ABE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713C092E-1DC6-47A3-A87C-26D1D4E3ABE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFFFEB0-D874-44FE-8784-3CC3AD9E6DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFFFEB0-D874-44FE-8784-3CC3AD9E6DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFFFEB0-D874-44FE-8784-3CC3AD9E6DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFFFEB0-D874-44FE-8784-3CC3AD9E6DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD07501-8AC7-4F12-93F2-C48EA6594691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD07501-8AC7-4F12-93F2-C48EA6594691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD07501-8AC7-4F12-93F2-C48EA6594691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD07501-8AC7-4F12-93F2-C48EA6594691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9422BFB2-A44B-47BA-853C-48FE0FFFBED3}
+	EndGlobalSection
+EndGlobal
